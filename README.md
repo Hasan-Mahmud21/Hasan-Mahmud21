@@ -42,13 +42,20 @@ If you need help with React, Node.js, MongoDB, or API development — feel free 
   <a href="mailto:hasanmahmudwork21@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
   <a href="https://facebook.com/">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://skillicons.dev/icons?i=fb" />
   </a>
+
+  <a href="https://x.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
   <a href="https://github.com/Hasan-Mahmud21">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
 
 ---
 
