@@ -83,7 +83,7 @@ If you need help with React, Node.js, MongoDB, or API development — feel free 
 
 ## 📝 Quote
 
-> *“I code to make ideas come alive.”* ✨
+> *“I build things that live on the web”* ✨
 
 ---
 
