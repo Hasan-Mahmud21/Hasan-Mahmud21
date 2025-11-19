@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📍 Dhaka, Bangladesh • 📧 hasanmahmudwork21@gmail.com
+  📍 Dhaka, Bangladesh • 📧 hm791644@gmail.com
 </p>
 
 ---
