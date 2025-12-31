@@ -12,7 +12,7 @@ I enjoy learning by building real projects and improving my skills step by step 
 ### 🎨 Frontend
 - React.js  
 - HTML5, CSS3  
-- Tailwind CSS, Bootstrap  
+- Tailwind CSS, Daisy UI 
 
 ### ⚙️ Backend
 - Node.js  
@@ -22,7 +22,7 @@ I enjoy learning by building real projects and improving my skills step by step 
 
 ### 🗄️ Databases
 - MongoDB  
-- PostgreSQL  
+- MySQL  
 
 ---
 
