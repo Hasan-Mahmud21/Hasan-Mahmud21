@@ -1,97 +1,70 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hasan-Mahmud21/Hasan-Mahmud21/main/animated-banner.svg" width="100%" />
-</p>
+# 💫 About Me
 
-<h1 align="center">Hi 👋, I'm Hasan Mahmud</h1>
+Hi, I’m **Hasan Mahmud** 👋  
+A motivated **MERN Stack Developer** currently in the learning and building phase, focused on creating modern, responsive, and user-friendly web applications.
 
-<p align="center">
-  <b>MERN Stack Developer | JavaScript Enthusiast | Passionate Coder</b>
-</p>
-
-<p align="center">
-  📍 Dhaka, Bangladesh • 📧 hm791644@gmail.com
-</p>
+I enjoy learning by building real projects and improving my skills step by step with clean and maintainable code.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 What I Work With
 
-I’m a dedicated **MERN Stack Developer** with a strong passion for building modern, responsive, and user-friendly web applications.  
-I work with **JavaScript, React, Node.js, Express, and MongoDB**, and I enjoy crafting clean UI and scalable backend systems.
+### 🎨 Frontend
+- React.js  
+- HTML5, CSS3  
+- Tailwind CSS, Bootstrap  
 
-I focus on writing **clean, maintainable code**, and I love learning new technologies every day.  
-If you need help with React, Node.js, MongoDB, or API development — feel free to reach out!
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST API development  
+- JWT-based authentication  
+
+### 🗄️ Databases
+- MongoDB  
+- PostgreSQL  
 
 ---
 
-## 🚀 Tech Stack
+## 💡 What I Enjoy
+- Building **full-stack web applications**
+- Writing **clean and structured code**
+- Learning new technologies and improving every day
+- Turning project ideas into working products
 
-### **Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap" />
-</p>
+---
 
-### **Deployment & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
-</p>
+## 🧠 Skills & Technologies
 
-### **Social Platforms**
-<p>
-  <a href="mailto:hasanmahmudwork21@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://facebook.com/">
-    <img src="https://skillicons.dev/icons?i=fb" />
-  </a>
-
-  <a href="https://x.com/">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-
-  <a href="https://github.com/Hasan-Mahmud21">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
+| **Category** | **Technologies** |
+|-------------|------------------|
+| **Language** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000?style=plastic&logo=vercel&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan-Mahmud21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Hasan-Mahmud21&show_icons=true&theme=tokyonight&hide_border=true" 
-  width="49%" 
-/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hasan-Mahmud21&theme=dark&hide_border=false)
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Mahmud21&theme=tokyonight&hide_border=true" 
-  width="49%" 
-/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahmud21&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🔠 Top Languages
-
-<div align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahmud21&layout=compact&theme=tokyonight&hide_border=true" 
-  width="45%" 
-/>
-</div>
+## 🎯 Current Focus
+- Strengthening MERN stack fundamentals  
+- Building real-world full-stack projects  
+- Improving problem-solving and code quality  
 
 ---
 
-## 📝 Quote
-
-> *“I build things that live on the web”* ✨
+![Profile Views](https://visitcount.itsvg.in/api?id=Hasan-Mahmud21&icon=0&color=0)
 
 ---
 
-<p align="center">From <a href="https://github.com/Hasan-Mahmud21">Hasan-Mahmud21</a></p>
+⭐ *Learning every day. Building consistently.*
